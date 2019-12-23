@@ -10,3 +10,4 @@ dist
 _build
 Untitled*.ipynb
 .~*
+.vscode/
